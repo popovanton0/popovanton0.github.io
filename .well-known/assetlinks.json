@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.popov.appstarterproxy",
+    "sha256_cert_fingerprints":
+    ["48:F0:E3:B0:53:F6:60:7A:F1:5B:36:0C:27:2C:AD:0E:1C:95:93:17:54:47:C4:7A:6A:06:4E:F6:D7:22:70:25"]
+  }
+}]
